@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Oem_Check": {
+      "commandName": "Project",
+      "commandLineArgs": "--debug"
+    }
+  }
+}
